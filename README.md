@@ -154,8 +154,8 @@ The backend provides the following endpoints:
        "ast": {
          "type": "operator",
          "value": "OR",
-         "left": { "..." },
-         "right": { "..." }
+         "left": { ... },
+         "right": { ... }
        },
        "message": "Rules combined successfully."
      }
