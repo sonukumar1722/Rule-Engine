@@ -11,7 +11,6 @@ This is a **Rule Engine** application that allows users to define and evaluate c
   - [Evaluating Rules](#evaluating-rules)
 - [API Endpoints](#api-endpoints)
 - [Technologies Used](#technologies-used)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Overview
@@ -190,25 +189,6 @@ The backend provides the following endpoints:
 - **Database**: SQLite (or any other Django-supported database)
 - **Others**: Node.js, NPM
 
-## Contributing
-
-Contributions are welcome! If you have any suggestions or bug reports, please create an issue or open a pull request.
-
-1. Fork the repository.
-2. Create your feature branch:
-   ```bash
-   git checkout -b feature/YourFeature
-   ```
-3. Commit your changes:
-   ```bash
-   git commit -m 'Add some feature'
-   ```
-4. Push to the branch:
-   ```bash
-   git push origin feature/YourFeature
-   ```
-5. Open a pull request.
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
@@ -219,6 +199,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Installation**: Detailed steps for setting up the project.
 - **Usage**: Explains how to use the application, including combining and evaluating rules.
 - **API Endpoints**: Documents the API endpoints for backend communication.
-- **Contributing**: Guidelines for contributing to the project.
-
-Let me know if you'd like to customize any section further!
