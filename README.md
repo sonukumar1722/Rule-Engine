@@ -1,8 +1,4 @@
-Here's a comprehensive `README.md` file for your Rule Engine project, which includes an overview of the project, installation instructions, usage examples, and more.
-
-```markdown
 # Rule Engine Project
-
 This is a **Rule Engine** application that allows users to define and evaluate custom rules based on user data. The application provides a simple interface to combine rules, generate an Abstract Syntax Tree (AST), and evaluate user data against these rules.
 
 ## Table of Contents
@@ -216,7 +212,6 @@ Contributions are welcome! If you have any suggestions or bug reports, please cr
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
 
 ### Key Sections:
 - **Overview**: Gives a summary of the project.
