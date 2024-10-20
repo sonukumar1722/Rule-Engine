@@ -154,8 +154,8 @@ The backend provides the following endpoints:
        "ast": {
          "type": "operator",
          "value": "OR",
-         "left": { ... },
-         "right": { ... }
+         "left": { "..." },
+         "right": { "..." }
        },
        "message": "Rules combined successfully."
      }
@@ -167,7 +167,7 @@ The backend provides the following endpoints:
    - **Payload**:
      ```json
      {
-       "ast": { ... },  // The combined AST
+       "ast": { ... }, 
        "data": {
          "age": 35,
          "department": "Sales",
